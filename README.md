@@ -1,5 +1,5 @@
 # hello-world-m02
 Este é um repositório para colocar em prática o exercícios 02 de Github da Philips
-eu não gosto de doces
-eu não estou programando
-1 + 1 = 3
+<br />eu não gosto de doces<br />
+Eu estou Programando<br />
+1+1 = 2
